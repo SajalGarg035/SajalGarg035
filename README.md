@@ -22,7 +22,7 @@
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql)
+
 
 ### **Database**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
@@ -41,10 +41,6 @@
 
 ---
 
-## 📂 My Projects
-- 🔗 [**Portfolio Website**](https://github.com/sajalgarg035/portfolio): My personal portfolio showcasing my skills, projects, and contact information.
-- 🔗 [**E-commerce Web App**](https://github.com/sajalgarg035/ecommerce-app): A full-stack e-commerce app with user authentication, payment integration, and a modern UI.
-- 🔗 [**Task Manager API**](https://github.com/sajalgarg035/task-manager): A RESTful API for managing tasks, built using Node.js, Express, and MongoDB.
 
 ---
 
@@ -55,8 +51,6 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sajal-garg)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=google-chrome)](https://sajal-garg.dev)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sajal.garg@example.com)  
 
 ---
