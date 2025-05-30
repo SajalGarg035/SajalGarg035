@@ -12,30 +12,51 @@
 
 ## 🛠️ Technologies & Tools
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)
+### **Frontend Development**
+- **HTML5** – Semantic markup and modern web standards.
+- **CSS3** – Responsive layouts, Flexbox, Grid, and animations.
+- **JavaScript (ES6+)** – Modern JavaScript features and asynchronous programming.
+- **TypeScript** – Static typing for enhanced code quality and maintainability.
+- **React.js** – Component-based architecture for building user interfaces.
+- **Redux** – State management for predictable application behavior.
+- **React Router** – Declarative routing for single-page applications.
+- **React Query** – Data fetching and caching for React applications.
+- **Tailwind CSS** – Utility-first CSS framework for rapid UI development.
+- **Next.js** – React framework for server-side rendering and static site generation.
+- **Socket.IO** – Real-time, bidirectional event-based communication.
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white)
+### **Backend Development**
+- **Node.js** – JavaScript runtime for building scalable network applications.
+- **Express.js** – Minimal and flexible Node.js web application framework.
+- **TypeScript** – Static typing for backend services.
+- **tRPC** – Type-safe API development without schemas or code generation.
+- **Socket.IO** – Real-time communication between clients and servers.
+- **JWT (JSON Web Tokens)** – Compact, URL-safe means of representing claims to be transferred between two parties.
+- **Passport.js** – Authentication middleware for Node.js.
 
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+### **Database Management**
+- **MongoDB** – NoSQL database for flexible and scalable data storage.
+- **Mongoose** – MongoDB object modeling for Node.js.
+- **MySQL** – Relational database management system.
+- **Prisma** – Next-generation ORM for Node.js and TypeScript.
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
+### **DevOps & Infrastructure**
+- **Docker** – Platform for developing, shipping, and running applications in containers.
+- **Docker Compose** – Tool for defining and running multi-container Docker applications.
+- **Virtual Machines (VMs)** – Emulation of physical computers for running multiple operating systems.
+- **CI/CD Pipelines** – Automated processes for continuous integration and continuous deployment.
+  - **GitHub Actions** – Automated workflows for building, testing, and deploying code.
+- **Nginx** – High-performance HTTP server and reverse proxy.
+- **PM2** – Advanced process manager for Node.js applications.
 
-### Other Tools
-![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=figma)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code)
+
+
+### **Testing & Quality Assurance**
+- **Jest** – JavaScript testing framework.
+- **ESLint** – Static code analysis tool for identifying problematic patterns in JavaScript code.
+- **Prettier** – Code formatter for consistent code style.
+
+
 
 ---
 
@@ -48,12 +69,8 @@
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
-
 ![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajalgarg035&show_icons=true&theme=radical&count_private=true&hide=prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalgarg035&layout=compact&theme=radical)
-
-</div>
 
 ### 📈 GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajalgarg035&theme=radical)
