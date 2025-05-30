@@ -13,50 +13,52 @@
 ## 🛠️ Technologies & Tools
 
 ### **Frontend Development**
-- **HTML5** – Semantic markup and modern web standards.
-- **CSS3** – Responsive layouts, Flexbox, Grid, and animations.
-- **JavaScript (ES6+)** – Modern JavaScript features and asynchronous programming.
-- **TypeScript** – Static typing for enhanced code quality and maintainability.
-- **React.js** – Component-based architecture for building user interfaces.
-- **Redux** – State management for predictable application behavior.
-- **React Router** – Declarative routing for single-page applications.
-- **React Query** – Data fetching and caching for React applications.
-- **Tailwind CSS** – Utility-first CSS framework for rapid UI development.
-- **Next.js** – React framework for server-side rendering and static site generation.
-- **Socket.IO** – Real-time, bidirectional event-based communication.
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-%23CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-%23FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-%23000000?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### **Backend Development**
-- **Node.js** – JavaScript runtime for building scalable network applications.
-- **Express.js** – Minimal and flexible Node.js web application framework.
-- **TypeScript** – Static typing for backend services.
-- **tRPC** – Type-safe API development without schemas or code generation.
-- **Socket.IO** – Real-time communication between clients and servers.
-- **JWT (JSON Web Tokens)** – Compact, URL-safe means of representing claims to be transferred between two parties.
-- **Passport.js** – Authentication middleware for Node.js.
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-%23000000?style=for-the-badge&logo=trpc&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-%23000000?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%232C6D00?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-%233E2A8C?style=for-the-badge&logo=passport&logoColor=white)
 
 ### **Database Management**
-- **MongoDB** – NoSQL database for flexible and scalable data storage.
-- **Mongoose** – MongoDB object modeling for Node.js.
-- **MySQL** – Relational database management system.
-- **Prisma** – Next-generation ORM for Node.js and TypeScript.
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%2361DAFB?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### **DevOps & Infrastructure**
-- **Docker** – Platform for developing, shipping, and running applications in containers.
-- **Docker Compose** – Tool for defining and running multi-container Docker applications.
-- **Virtual Machines (VMs)** – Emulation of physical computers for running multiple operating systems.
-- **CI/CD Pipelines** – Automated processes for continuous integration and continuous deployment.
-  - **GitHub Actions** – Automated workflows for building, testing, and deploying code.
-- **Nginx** – High-performance HTTP server and reverse proxy.
-- **PM2** – Advanced process manager for Node.js applications.
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%2314354C?style=for-the-badge&logo=docker&logoColor=white)
+![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-%23000000?style=for-the-badge&logo=virtualbox&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23000000?style=for-the-badge&logo=gitlab-ci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-%234F5B93?style=for-the-badge&logo=pm2&logoColor=white)
 
-
+### **Version Control & Collaboration**
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### **Testing & Quality Assurance**
-- **Jest** – JavaScript testing framework.
-- **ESLint** – Static code analysis tool for identifying problematic patterns in JavaScript code.
-- **Prettier** – Code formatter for consistent code style.
-
-
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-%234B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
 ---
 
@@ -79,9 +81,9 @@
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sajal.garg@example.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajalgarg)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sajalgarg)  
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajal.garg@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajalgarg)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sajalgarg)  
 
 ---
 
