@@ -5,7 +5,7 @@
 - 📚 Currently learning **Next.js** and **Docker** to strengthen full-stack development skills.
 - 🎯 **Goals**:
   - Contribute to impactful open-source projects.
-  - Master cloud-native technologies like **AWS** and **Kubernetes**.
+  - Master cloud-native technologies like **AWS** 
   - Build scalable and performance-oriented web solutions.
 
 ---
