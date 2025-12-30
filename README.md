@@ -64,7 +64,7 @@ I am a passionate **Web Developer** focused on building responsive, user-friendl
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sajalgarg035&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sajalgarg035&show_icons=true&theme=radical&hide_border=true" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajalgarg035&theme=radical&hide_border=true" />
